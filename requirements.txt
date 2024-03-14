@@ -1,0 +1,10 @@
+pytest
+pylint
+ipdb
+jupyterlab
+notebook
+numpy
+pandas
+matplotlib
+bs4
+requests
