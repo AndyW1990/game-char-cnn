@@ -6,5 +6,7 @@ notebook
 numpy
 pandas
 matplotlib
+seaborn
 bs4
 requests
+tensorflow
